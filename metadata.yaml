@@ -1,0 +1,60 @@
+_repo: Pagan-Passions_22767
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stanley, Robert
+    alias: Stanley, Robert Charles
+    birthdate: 1918
+    deathdate: 1996
+    gutenberg_agent_id: '25529'
+    url: http://www.gutenberg.org/2009/agents/25529
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Garrett, Randall
+    aliases:
+    - Garrett, Gordon Randall
+    - Jorgensen, Ivar
+    - Garret, Randall
+    birthdate: 1927
+    deathdate: 1987
+    gutenberg_agent_id: '25267'
+    url: http://www.gutenberg.org/2009/agents/25267
+    wikipedia: http://en.wikipedia.org/wiki/Randall_Garrett
+  - agent_name: Janifer, Laurence M.
+    aliases:
+    - Janifer, Laurence Mark
+    - Logan, William
+    - Harris, Larry M.
+    - Janifer, Larry
+    - Harris, Laurence Mark
+    birthdate: 1933
+    deathdate: 2002
+    gutenberg_agent_id: '25268'
+    url: http://www.gutenberg.org/2009/agents/25268
+    wikipedia: http://en.wikipedia.org/wiki/Laurence_Janifer
+description: The Gods and Goddesses of Ancient Greece and Rome had returned to Earth
+  -- with all their awesome powers intact. Overnight, Earth was transformed. War on
+  any scale was outlawed, along with boom-and-bust economic cycles, and prudery. No
+  change was more startling than the face of New York, where the Empire State Building
+  became the Tower of Zeus. In this totally altered world, William Forrester is an
+  acolyte of Athena, Goddess of Wisdom, and a teacher of history. Only Maya Wilson,
+  one of his students and a worshipper of Venus, Goddess of Love, had a different
+  sort of grading in mind. Maya is the first of the many Trials of Forrester, every
+  bit as mighty and perilous as the Labors of Hercules.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22767'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Pagan Passions
+url: http://www.gutenberg.org/ebooks/22767
